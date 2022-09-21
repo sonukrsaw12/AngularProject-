@@ -1,0 +1,18 @@
+.mystyle {
+    background:red;
+}
+
+.youstyle {
+  background: green;
+}
+
+
+.toggleStyle {
+  color: red;
+}
+
+span {
+    color:red;
+    font-size:50px;
+
+}

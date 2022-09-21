@@ -1,0 +1,7 @@
+<div class="container mt-5" >
+  <div *ngFor="let searchHis of searchHistory">
+    <ul>
+      <li>  <button class="btn btn-warning" (click)="showDetails(searchHis)">{{searchHis}}</button></li>
+    </ul>
+  </div>
+</div>

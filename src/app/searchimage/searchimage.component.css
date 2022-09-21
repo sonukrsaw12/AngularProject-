@@ -1,0 +1,18 @@
+#searchimg {
+    background: #00796b !important;
+    border-color: #00796b !important;
+    width: 20%;
+    float: left;
+    height: 50px;
+    border-radius: 0 5px 5px 0;
+}
+.searchbox {
+    width: 80%;
+    float: left;
+    height: 50px;
+    border-radius: 5px 0 0 5px;
+    border: 2px solid #00796b;
+}
+.form-control:focus {
+    box-shadow: none;
+}
